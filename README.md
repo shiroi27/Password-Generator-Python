@@ -1,4 +1,5 @@
 ## 📸 Preview  
+
 ![Password Generator Screenshot](https://github.com/user-attachments/assets/0a7dac24-343c-4edf-be7c-dc9d7a906f1d)
 
 
@@ -47,7 +48,7 @@ It generates secure passwords using uppercase, lowercase, numbers, and symbols �
 
 🧠 What I Learned
 
-Through this Day 11 mini-project, I:
+Through this Day 11 mini-project, I :
 	•	Practiced clean GUI design using .place() layouting
 	•	Created a secure password generation logic
 	•	Focused on improving visual hierarchy and readability
