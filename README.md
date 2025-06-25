@@ -1,5 +1,6 @@
 ## 📸 Preview  
-![Password Generator Screenshot](https://github.com/shiroi27/Password-Generator-Python/assets/preview-image-placeholder)
+![Password Generator Screenshot](https://github.com/user-attachments/assets/0a7dac24-343c-4edf-be7c-dc9d7a906f1d)
+
 
 ---
 
